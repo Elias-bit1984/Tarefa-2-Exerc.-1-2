@@ -1,4 +1,4 @@
-#include <stdio.h>
+include <stdio.h>
 
 int main() {
     float receita, despesa, saldo = 0.0f;
